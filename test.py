@@ -7,3 +7,5 @@ print('cat')
 print('hampster')
 
 print('fish')
+
+print('bug')
